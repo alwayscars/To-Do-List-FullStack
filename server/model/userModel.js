@@ -6,7 +6,7 @@ const userSchema = new mongoose.Schema({
     },
     remainder:{
         type: String,
-        required: true
+        required: true 
     }
 
 })
